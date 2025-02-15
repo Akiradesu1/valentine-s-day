@@ -10,7 +10,7 @@ p {
 
 body {
   height: 100vh;
-  width: 100vw;
+  width: 100vh;
   background: #fee2e9;
   font-family: "Pangolin", cursive;
   font-size: 1vmin;
@@ -21,7 +21,7 @@ body {
 
 .container {
   position: relative;
-  top: 0vmin;
+  top: 30px;
 }
 
 .envelope {
